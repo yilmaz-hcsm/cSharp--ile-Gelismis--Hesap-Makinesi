@@ -1,0 +1,10 @@
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\bin\Debug\GelismisHesapMakinesi.exe.config
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\bin\Debug\GelismisHesapMakinesi.exe
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\bin\Debug\GelismisHesapMakinesi.pdb
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.Form1.resources
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.Properties.Resources.resources
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.csproj.GenerateResource.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.exe
+C:\Users\yilma\OneDrive\Masaüstü\GorselProgramlama\GelismisHesapMakinesi\GelismisHesapMakinesi\obj\Debug\GelismisHesapMakinesi.pdb
